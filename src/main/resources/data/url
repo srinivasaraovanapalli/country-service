@@ -1,0 +1,9 @@
+http://localhost:3000/api/v1/suggest?input=HL
+http://localhost:3000/api/v1/suggest?input=AL,Law
+http://localhost:3000/api/v1/suggest?input=Law,AL
+http://localhost:3000/api/v1/suggest?input=HL,Law
+http://localhost:3000/api/v1/suggest?input=Law,HL
+
+http://localhost:3000/api/v1/suggest-specific?input=AL
+
+http://localhost:3000/api/v1/suggest-specific?input=Law,AL
